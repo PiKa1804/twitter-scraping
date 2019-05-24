@@ -1,0 +1,29 @@
+B+R: b+r, br, b&r, rd, r&d
+
+badawczo-rozwojowy: badawczo-rozwojowy, badawczo-rozwojowa, badawczo-rozwojowe, badawczo-rozwojowego, badawczo-rozwojowej, badawczo-rozwojowych, badawczo-rozwojowemu, badawczo-rozwojowym, badawczo-rozwojowy, badawczo-rozwojow¹, badawczo-rozwojowymi
+
+badawczy: badawczy, badawczego, badawczemu, badawczym, badawcza, badawczej, badawcz¹, badawcze, badawczego, badawczemu, badawczych, badawczymi
+
+rozwojowy: rozwojowy, rozwojowego, rozwojowemu, rozwojowym, rozwojowa, rozwojowej, rozwojow¹, rozwojowe, rozwojowi, rozwojowych, rozwojowymi
+
+nak³ad: nak³ad, nak³ady, nak³adu, nak³adów, nak³adowi, nak³adom, nak³ad, nak³ady, nak³adem, nak³adami, nak³adzie, nak³adach
+
+finansowany: finansowany, finansowana, finansowane, finansowani, finansowanego, finansowanej, finansowanego, finansowanych, finansowanemu, finansowanym, finansowan¹, finansowanymi
+
+innowacje: innowacyjny, innowacyjnego, innowacyjnemu, innowacyjnym, innowacyjna, innowacyjnej, innowacyjn¹, innowacyjne, innowacyjni, innowacyjne, innowacyjnych, innowacyjnym, innowacyjnymi, innowacja, innowacji, innowacjê, innowacj¹, innowacje, innowacjom, innowacje, innowacjami, innowacjach
+
+dzia³alnoœæ: dzia³alnoœæ, dzia³alnoœci, dzia³alnoœci¹, dzia³alnoœciom, dzia³alnoœciami, dzia³alnoœciach
+
+biotechnologia: biotechnologia, biotechnologii, biotechnologiê, biotechnologi¹, biotechnologie, biotechnologiom, biotechnologiami, biotechnologiach, biotechnologiczny, biotechnologicznego, biotechnologicznemu, biotechnologicznym, biotechnologiczna, biotechnologicznej, biotechnologiczn¹, biotechnologiczne, biotechnologiczni, biotechnologicznych, biotechnologicznymi
+
+nanotechnologia: nanotechnologia, nanotechnologii, nanotechnologiê, nanotechnologi¹, nanotechnologie, nanotechnologiom, nanotechnologiami, nanotechnologiach, nanotechnologiczny, nanotechnologicznego, nanotechnologicznemu, nanotechnologicznym, nanotechnologiczna, nanotechnologicznej, nanotechnologiczn¹, nanotechnologiczne, nanotechnologiczni,  nanotechnologicznych, nanotechnologicznymi
+
+aparatura: aparatura, aparatury, aparaturze, aparaturê, aparatur¹, aparaturze, aparatur, aparaturom, aparaturami, aparaturach
+
+naukowo-badawczy: naukowo-badawczy, naukowo-badawczego, naukowo-badawczemu, naukowo-badawczym, naukowo-badawcza, naukowo-badawczej, naukowo-badawcz¹, naukowo-badawcze, naukowo-badawczego, naukowo-badawczemu, naukowo-badawczych, naukowo-badawczymi
+
+nowoczesna: nowoczesny, nowoczesnego, nowoczesnemu, nowoczesnym, nowoczesna, nowoczesnej, nowoczesn¹, nowoczesne, nowoczesnego, nowoczeœni, nowoczesnych, nowoczesnymi
+
+sprzêt: sprzêt, sprzêtu, sprzêtowi, sprzêtem, sprzêcie, sprzêty, sprzêtów, sprzêtom, sprzêtami, sprzêtach
+
+prace: praca, pracy, pracê, prac¹, prace, prac, pracom, pracami, pracach
